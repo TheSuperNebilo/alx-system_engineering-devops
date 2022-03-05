@@ -1,2 +1,2 @@
 #!/bin/bash
-copy con hello
+touch hello
