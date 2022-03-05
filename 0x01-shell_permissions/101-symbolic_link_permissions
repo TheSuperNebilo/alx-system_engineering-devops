@@ -1,0 +1,3 @@
+#!/bin/bash
+chown _hello vincent
+chgrp _hello staff
